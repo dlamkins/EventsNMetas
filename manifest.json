@@ -1,0 +1,20 @@
+﻿{
+  "name": "Events 'n Metas",
+  "version": "2.0.0",
+  "namespace": "bh.general.events",
+  "package": "EventsNMetas.dll",
+  "manifest_version": 1,
+
+  "description": "Displays upcoming events and metas and gives you the option to subscribe to in-game notifications for when they're going to be starting soon.",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/blish-hud/Blish-HUD",
+  "contributors": [
+    {
+      "name": "Freesnow",
+      "username": "freesnow.7251",
+      "url": "https://github.com/dlamkins"
+    }
+  ]
+}
