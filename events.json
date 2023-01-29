@@ -1,7 +1,7 @@
 [
     {
       "name": "Dawn",
-      "name_fr": "Aube",
+      "colloquial_fr": "Aube",
       "offset": "00:25Z",
       "repeat": "02:00",
       "difficulty": "",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Day",
-      "name_fr": "Jour",
+      "colloquial_fr": "Jour",
       "offset": "00:30Z",
       "repeat": "02:00",
       "difficulty": "",
@@ -27,7 +27,7 @@
     },
     {
       "name": "Dusk",
-      "name_fr": "Crépuscule",
+      "colloquial_fr": "Crépuscule",
       "offset": "01:40Z",
       "repeat": "02:00",
       "difficulty": "",
@@ -40,7 +40,7 @@
     },
     {
       "name": "Night",
-      "name_fr": "Nuit",
+      "colloquial_fr": "Nuit",
       "offset": "01:45Z",
       "repeat": "02:00",
       "difficulty": "",
